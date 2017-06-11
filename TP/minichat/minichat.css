@@ -1,0 +1,19 @@
+h1
+{
+	text-align: center;
+}
+strong
+{
+	font-size: 2em;
+}
+#date
+{
+	color: gray;
+	font-size: 0.8em;
+}
+#message
+{
+	border: 1px black solid;
+	margin-top: -15px;
+	padding: 10px;
+}

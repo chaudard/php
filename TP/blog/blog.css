@@ -1,0 +1,40 @@
+h1
+{
+	text-align: center;
+}
+#goCommentaires
+{
+	color:yellow;
+}
+#retourBillets
+{
+	color: blue;
+}
+#billet
+{
+	background-color: black;
+	color: white;
+	box-shadow: 6px 6px 0px gray;
+	margin: 10px;
+	padding-bottom: 15px;
+}
+#auteur,#titrePrincipal
+{
+	background-color: black;
+	color: white;
+	font-size: 2em;
+}
+#auteur
+{
+	margin: 10px;
+}
+#titre
+{
+	text-align: center;
+}
+#contenuBillet
+{
+	background-color: grey;
+	color: white;
+	margin: 10px;
+}

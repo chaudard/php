@@ -1,0 +1,79 @@
+body
+{
+	background-color: silver;
+}
+
+h1
+{
+    color: white;
+    width: 390px;
+    margin: auto;
+    text-shadow: 3px 3px 2px black;
+    padding: 15px;
+}
+
+.chat
+{	
+	border-radius: 5px;
+	background-color: rgb(220,220,220);
+    width: 500px;
+    margin: auto;
+    box-shadow: 4px 4px 4px black;
+    padding: 15px;
+    margin-bottom: 25px;
+    text-shadow: 2px 2px 2px white;
+}
+
+#pseudo
+{
+	width: 393px;
+}
+
+.messages
+{
+	border-radius: 5px;
+	background-color: rgb(170,170,170);
+    width: 700px;
+    margin: auto;
+    box-shadow: 4px 4px 4px black inset;
+    padding: 15px;
+    text-shadow: 3px 3px 3px white;
+}
+
+#message
+{
+	width: 490px;
+	height: 150px;
+}
+
+textarea
+{
+	resize:none;
+}
+
+.pseudo_message
+{
+	color: white;
+	text-shadow: 3px 2px 3px black;
+}
+
+a
+{
+    background-color: rgb(222,222,222);
+    box-shadow: 4px 4px 4px black inset;
+    padding: 10px;
+    text-shadow: 3px 3px 3px black;
+    text-decoration: none;
+    color: black;
+}
+
+.pages
+{
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+
+.error
+{
+    color: red;
+}
